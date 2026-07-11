@@ -1,0 +1,1 @@
+"create a simple blog section for my web home page . using only html and css"
